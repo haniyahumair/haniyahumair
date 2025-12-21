@@ -2,7 +2,7 @@
 
 🎓 **CS Student** | 🌐 **Frontend Developer (in the making)** | 🤖 **AI & Design Enthusiast**
 
-# 💫 About Me:
+## 💫 About Me:
 🎨 Passionate about UI/UX design and building clean, responsive frontend experiences<br>🤖 Actively exploring AI tools and trends, with hands-on experience integrating AI into real products<br>🧠 Strong interest in product thinking, project management, and entrepreneurship<br>🛠️ Enjoy leading projects from idea → design → development → delivery<br>📈 Always learning new technologies and improving my skill set<br>🌱 Experience working in startup and innovation ecosystems (QSTP Creative Labs, IdeaHub)
 
 
