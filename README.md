@@ -18,9 +18,11 @@
 ---
 
 ## 🚀 Currently Learning
-- React (Interactive, project-based learning through Scrimba)
-- Frontend architecture & component-based design
-- Building scalable and reusable UI systems
+- AI Engineering & LLM Integration: Building intelligent applications by integrating the Anthropic Claude API into React environments.
+- Prompt Engineering: Mastering system prompts, XML structuring, and multi-turn conversation logic to control LLM behavior.
+- Modern Web Development: Deepening React skills through interactive, project-based learning on Scrimba.
+- Full-Stack AI Patterns: Implementing secure API key management with .env and handling real-time streaming responses for better UX.
+- Frontend Architecture: Designing scalable, reusable UI systems and component-based structures.
 
 ---
 
